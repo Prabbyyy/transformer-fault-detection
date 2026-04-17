@@ -17,7 +17,7 @@ This project detects faults in power transformers using Dissolved Gas Analysis (
 ##  Dataset
 - DGA (Dissolved Gas Analysis) dataset used for transformer fault classification  
 - Contains gas concentration features for detecting fault types (thermal, electrical, partial discharge)  
-- File: `transformer_dga_dataset.xls`
+- File: `dga_dataset.csv`
 
 ##  Output
 - Fault classification results
