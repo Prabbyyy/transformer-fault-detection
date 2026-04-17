@@ -21,3 +21,4 @@ This project detects faults in power transformers using Dissolved Gas Analysis (
 
 ## 📷 Sample Output
 ![Confusion Matrix](transformer_fault_confusion.png)
+![Feature Importance](transformer_feature_importance.png)
