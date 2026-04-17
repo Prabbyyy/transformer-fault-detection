@@ -14,6 +14,11 @@ This project detects faults in power transformers using Dissolved Gas Analysis (
 - scikit-learn
 - Matplotlib
 
+##  Dataset
+- DGA (Dissolved Gas Analysis) dataset used for transformer fault classification  
+- Contains gas concentration features for detecting fault types (thermal, electrical, partial discharge)  
+- File: `transformer_dga_dataset.csv`
+
 ##  Output
 - Fault classification results
 - Confusion matrix visualization
